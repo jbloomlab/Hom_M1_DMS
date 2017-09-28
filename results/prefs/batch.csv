@@ -1,0 +1,4 @@
+name,pre,post,errpre,errpost
+replicate-1,mutDNA-1,mutvirus-1,wtvirus-1,wtvirus-1
+replicate-2,mutDNA-2,mutvirus-2,wtvirus-2,wtvirus-2
+replicate-3,mutDNA-3,mutvirus-3,wtvirus-3,wtvirus-3

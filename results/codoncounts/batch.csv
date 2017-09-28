@@ -1,0 +1,13 @@
+name,R1
+mutDNA-1,Sample_DNA_Lib1/DNA_Lib1_*_R1*_*.fastq.gz
+mutDNA-2,Sample_DNA_Lib2/DNA_Lib2_*_R1*_*.fastq.gz
+mutDNA-3,Sample_DNA_Lib3/DNA_Lib3_*_R1*_*.fastq.gz
+wtDNA-1,Sample_DNA_WT1/DNA_WT1_*_R1*_*.fastq.gz
+wtDNA-2,Sample_DNA_WT2/DNA_WT2_*_R1*_*.fastq.gz
+wtDNA-3,Sample_DNA_WT3/DNA_WT3_*_R1*_*.fastq.gz
+wtvirus-1,Sample_virus_WT1/virus_WT1_*_R1*_*.fastq.gz
+wtvirus-2,Sample_virus_WT2/virus_WT2_*_R1*_*.fastq.gz
+wtvirus-3,Sample_virus_WT3/virus_WT3_*_R1*_*.fastq.gz
+mutvirus-1,Sample_virus_Lib1/virus_Lib1_*_R1*_*.fastq.gz
+mutvirus-2,Sample_virus_Lib2/virus_Lib2_*_R1*_*.fastq.gz
+mutvirus-3,Sample_virus_Lib3/virus_Lib3_*_R1*_*.fastq.gz
