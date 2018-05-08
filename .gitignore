@@ -1,3 +1,9 @@
 *.log
 .*
 !.gitignore
+fastq_files
+results/FASTQ_files
+notebook.out
+*.sbatch
+aspera.openssh
+metadata.txt
